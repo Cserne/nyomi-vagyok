@@ -149,6 +149,11 @@ body{
 	margin-right: 30px;
 }
 
+#button {
+	font-size: 40px;
+	background-color: red;
+}
+
 .headerContact {
 
 }
